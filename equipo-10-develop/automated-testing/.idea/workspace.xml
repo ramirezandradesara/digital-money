@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d10026cf-835a-4298-bb6d-c35a6a78f962" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QXnwvupWsmn2Xnish4mYjSKoIf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "D:/DH/Bim8/Sprints/Sprint3/app/equipo-10/equipo-10-develop/automated-testing"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.DashCardTest">
+    <configuration name="DashCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DigitalMoneyHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.Tests.DashCardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashCardTest.dashCardPageCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DigitalMoneyHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.Tests.DashCardTest" />
+      <option name="METHOD_NAME" value="dashCardPageCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashCardTest.dashCardPageError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DigitalMoneyHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.Tests.DashCardTest" />
+      <option name="METHOD_NAME" value="dashCardPageError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashInicioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DigitalMoneyHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.Tests.DashInicioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashInicioTest.dashInicioInformation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DigitalMoneyHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.Tests.DashInicioTest" />
+      <option name="METHOD_NAME" value="dashInicioInformation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DashCardTest" />
+        <item itemvalue="JUnit.DashCardTest.dashCardPageError" />
+        <item itemvalue="JUnit.DashCardTest.dashCardPageCreate" />
+        <item itemvalue="JUnit.DashInicioTest" />
+        <item itemvalue="JUnit.DashInicioTest.dashInicioInformation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d10026cf-835a-4298-bb6d-c35a6a78f962" name="Changes" comment="" />
+      <created>1685509039935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685509039935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/automated_testing$DashCardTest.ic" NAME="DashCardTest Coverage Results" MODIFIED="1686182857382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+@media (min-width: 768px) {
+    .loginInput {
+        width: 320px !important;
+    }
+}
+
+@media (min-width: 1024px) {
+    .loginInput {
+        width: 350px !important;
+    }
+}
+
+@media (min-width: 1300px) {
+    .loginInput {
+        width: 400px !important;
+    }
+}
+

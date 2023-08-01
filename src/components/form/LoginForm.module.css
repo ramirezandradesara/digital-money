@@ -1,0 +1,12 @@
+@media (min-width: 1024px) {
+    .dynamicTitle {
+        font-size: 27px;
+    }
+}
+
+@media (min-width: 1300px) {
+    .dynamicTitle {
+        font-size: 30px;
+    }
+}
+
